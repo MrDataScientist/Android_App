@@ -11,3 +11,6 @@ I hope you will enjoy learning by using our Android App.
 +pictures validation
 +complete sentences
 +chose the right answer
+
+#Software
+Android studio on windows 10
