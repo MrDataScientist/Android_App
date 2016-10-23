@@ -1,7 +1,7 @@
 # Android_App
 
 #Introduction:
-This is an Android App to teach German for beginners.
+This is an Android App to teach Android for beginners.
 Our methods are very simple and it's for everyone.
 I hope you will enjoy learning by using our Android App.
 
